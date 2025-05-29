@@ -2,8 +2,8 @@
 
 This repository contains two Python GUI-based tools developed during my internship at Inlighn Tech:
 
-1. 📁 [pdf_protector](./pdf_protector) – A tool to apply password protection on PDF files
-2. 📁 [pdf_cracker](./pdf_cracker) – A tool to crack protected PDFs using a dictionary (wordlist) attack
+1. 📁 [pdf_protector]– A tool to apply password protection on PDF files
+2. 📁 [pdf_cracker]– A tool to crack protected PDFs using a dictionary (wordlist) attack
 
 Both tools are developed using Python 3, PyPDF2, and Tkinter, and focus on file-level document security.
 
