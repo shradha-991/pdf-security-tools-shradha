@@ -7,7 +7,7 @@ This repository contains two Python GUI-based tools developed during my internsh
 
 Both tools are developed using Python 3, PyPDF2, and Tkinter, and focus on file-level document security.
 
----
+
 
 ## 📌 Tools Overview
 
@@ -22,7 +22,7 @@ Both tools are developed using Python 3, PyPDF2, and Tkinter, and focus on file-
 - Attempts decryption using each word
 - Displays result: success or failure
 
----
+
 
 ## 🧰 Technologies Used
 - Python 3.11
@@ -53,10 +53,14 @@ pdf-security-tools
 ├── PDF_Protection_Project_Report_Shradha_Garg
 ├── PROJECT REPORT_PDF_Cracker_Shradha
 
+---
 
 ## 🎯 Project Purpose
-This repo was created to demonstrate understanding of both protection and cracking techniques for PDF security. 
-Each tool works independently and is well-documented with screenshots and reports.
+"This repo was created to demonstrate understanding of both protection and cracking techniques for PDF security. 
+Each tool works independently and is well-documented with screenshots and reports."
+
+👩🏻‍💻 Developed by: Shradha Garg  
+📅 Internship: Inlighn Tech (May–June 2025)
 
 
 
