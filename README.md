@@ -7,8 +7,6 @@ This repository contains two Python GUI-based tools developed during my internsh
 
 Both tools are developed using Python 3, PyPDF2, and Tkinter, and focus on file-level document security.
 
-
-
 ## 📌 Tools Overview
 
 ### 🔒 PDF Protection Tool
@@ -22,36 +20,11 @@ Both tools are developed using Python 3, PyPDF2, and Tkinter, and focus on file-
 - Attempts decryption using each word
 - Displays result: success or failure
 
-
-
 ## 🧰 Technologies Used
 - Python 3.11
 - PyPDF2
 - Tkinter
 - OS module for file handling
-
----
-
-## 📁 Folder Structure
-
-pdf-security-tools
-├── pdf_protector/
-│   ├── pdf_protection_gui.py
-│   ├── input.pdf
-│   ├── protected_output.pdf
-│   ├── SCREENSHOTS
-│   └── README_protection.md
-│
-├── pdf_cracker/
-│   ├── cracker_gui.py
-│   ├── wordlist.txt
-│   ├── locked.pdf
-│   ├── unlocked.pdf
-│   ├── SCREENSHOTSS
-│   └── README_cracker.md
-│
-├── PDF_Protection_Project_Report_Shradha_Garg
-├── PROJECT REPORT_PDF_Cracker_Shradha
 
 ---
 
